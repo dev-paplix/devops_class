@@ -163,3 +163,5 @@ GitHub.sublime-settings
 .history
 
 Dockerfile
+docker-compose.yml
+migration
