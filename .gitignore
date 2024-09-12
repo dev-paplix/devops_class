@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
+
 dist-ssr
 *.local
 
@@ -76,8 +76,7 @@ atlassian-ide-plugin.xml
 
 # Distribution / packaging 
 .Python build/ 
-develop-eggs/ 
-dist/ 
+develop-eggs/  
 downloads/ 
 eggs/ 
 .eggs/ 
